@@ -27,7 +27,7 @@ const AboutSection = () => {
               <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
                 My focus is always on reliability, performance, and measurable impact. 
                 Outside of engineering, I love football (Forza Juventus! ⚫⚪), 
-                surfing, and snowboarding — staying curious, active, and always learning.
+                surfing, and snowboarding, staying curious, active, and always learning.
               </p>
               
               {/* Quick stats */}
@@ -57,8 +57,8 @@ const AboutSection = () => {
                   <div>
                     <h3 className="text-xl font-semibold mb-2">Machine Learning</h3>
                     <p className="text-muted-foreground">
-                      Neural Networks, PyTorch, Predictive Modeling, Reinforcement Learning, 
-                      Transformers, and Physics-Guided ML approaches.
+                      Neural Networks, PyTorch, Predictive Modeling, Reinforcement Learning 
+                      and Physics-Guided ML approaches.
                     </p>
                   </div>
                 </div>
@@ -87,7 +87,7 @@ const AboutSection = () => {
                   <div>
                     <h3 className="text-xl font-semibold mb-2">MLOps & Engineering</h3>
                     <p className="text-muted-foreground">
-                      MLflow, DVC, Hydra, CUDA, GPU Computing — building 
+                      MLflow, DVC, Hydra, CUDA, GPU Computing, building 
                       production-ready AI systems that scale.
                     </p>
                   </div>
