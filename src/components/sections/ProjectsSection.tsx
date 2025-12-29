@@ -5,7 +5,7 @@ const projects = [
   {
     title: "AI-Driven HVAC Optimization",
     description: "Developed predictive ML models and AI control strategies to improve HVAC energy efficiency and automation. Designed physics-guided neural controllers and accelerated development using GPU computing and MLOps.",
-    technologies: ["PyTorch", "Neural Networks", "MLflow", "DVC", "CUDA", "MPC"],
+    technologies: ["PyTorch", "Neural Networks", "MLflow", "Hydra", "CUDA", "MPC"],
     type: "Industrial R&D",
     icon: Factory,
     highlight: null,
@@ -22,11 +22,11 @@ const projects = [
   },
   {
     title: "SnAIke — Smart Traffic Lights",
-    description: "Developed a Reinforcement Learning solution to optimize traffic flow using SUMO simulation, combining engineering, applied AI, and entrepreneurship.",
-    technologies: ["Python", "Reinforcement Learning", "SUMO", "Linux"],
+    description: "Developed a Deep Q-Learning (DQN) solution to optimize traffic flow using SUMO simulation, combining engineering, applied AI, and entrepreneurship.",
+    technologies: ["Python", "Deep Q-Learning", "SUMO", "Linux"],
     type: "AI Startup",
     icon: TrafficCone,
-    highlight: "Selected for Plug & Play + Politecnico di Torino accelerator",
+    highlight: "Selected for the Spoke 4 Mentorship and Entrepreneurship Program by Politecnico di Torino and Plug and Play",
     link: "https://snaike-ai.com"
   }
 ];
