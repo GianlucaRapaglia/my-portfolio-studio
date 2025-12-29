@@ -1,6 +1,6 @@
 const skills = {
   "Programming": ["Python", "C++", "Matlab", "Simulink", "ROS", "Linux"],
-  "Machine Learning": ["Neural Networks", "PyTorch", "Predictive Modeling", "Reinforcement Learning", "Transformers", "Supervised & Unsupervised Learning"],
+  "Machine Learning": ["Neural Networks", "PyTorch", "Predictive Modeling", "Reinforcement Learning", "Supervised & Unsupervised Learning"],
   "Control & Optimization": ["Model Predictive Control", "Real-Time Embedded Control", "Physics-Guided ML"],
   "MLOps & Tools": ["MLflow", "DVC", "Hydra", "CUDA", "GPU Computing"],
   "Domains": ["Industrial AI", "HVAC & Energy Systems", "Robotics", "Simulation & Training", "Mobility Optimization"]
