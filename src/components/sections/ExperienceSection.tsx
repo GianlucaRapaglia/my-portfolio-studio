@@ -16,10 +16,10 @@ const experiences = [
     current: false
   },
   {
-    title: "Robotics & AI Engineer (Thesis)",
+    title: "Robotics Engineer (Thesis)",
     company: "InnoTech Systems, CSULA (USA)",
     period: "Thesis Project",
-    description: "Built autonomous EV charging robotic system and ML-based control pipeline.",
+    description: "Built autonomous EV charging robotic system and ML-based detection system through a ZED depth camera.",
     current: false
   }
 ];
