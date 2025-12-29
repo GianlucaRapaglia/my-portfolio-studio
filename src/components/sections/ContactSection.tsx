@@ -30,8 +30,8 @@ const ContactSection = () => {
               <div>
                 <h3 className="text-2xl font-bold mb-4">Get in Touch</h3>
                 <p className="text-muted-foreground mb-6">
-                  Whether you have a project in mind, a question about AI & robotics, 
-                  or just want to connect — I'm always open to new conversations.
+                  Whether you have a project in mind or just want to connect, 
+                  I'm always open to new conversations.
                 </p>
                 <Button size="lg" className="glow hover:scale-105 transition-transform" asChild>
                   <a href="mailto:rapaglia.gianluca@gmail.com">
