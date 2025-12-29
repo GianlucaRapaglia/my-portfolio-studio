@@ -33,7 +33,7 @@ const HeroSection = () => {
           
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto mb-10 opacity-0 animate-fade-in" style={{ animationDelay: "0.4s" }}>
             Building practical AI solutions for real-world challenges in industry, 
-            energy systems, automation, and mobility — focused on reliability, 
+            energy systems, automation, and mobility, focused on reliability, 
             performance, and measurable impact.
           </p>
           
