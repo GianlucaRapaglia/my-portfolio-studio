@@ -12,10 +12,10 @@ const Index = () => {
   return (
     <>
       <Helmet>
-        <title>Gianluca Rapaglia | Applied AI Engineer</title>
+        <title>Gianluca Rapaglia | Mechatronics Engineer</title>
         <meta
           name="description"
-          content="Applied AI Engineer specializing in Machine Learning, Robotics, and Control Systems. Building practical AI solutions for real-world challenges in industry, energy systems, and mobility."
+          content="Mechatronics Engineer specializing in Machine Learning, Robotics, and Control Systems. Building practical solutions for real-world challenges in industry, energy systems, and mobility."
         />
         <meta
           name="keywords"
@@ -24,7 +24,7 @@ const Index = () => {
         <meta property="og:title" content="Gianluca Rapaglia | Applied AI Engineer" />
         <meta
           property="og:description"
-          content="Building practical AI solutions for real-world challenges in industry, energy systems, automation, and mobility."
+          content="Building practical solutions for real-world challenges in industry, energy systems, automation, and mobility."
         />
         <meta property="og:type" content="website" />
         <link rel="canonical" href="https://gianluca-rapaglia.com" />
