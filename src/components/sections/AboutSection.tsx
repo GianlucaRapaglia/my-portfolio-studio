@@ -19,8 +19,8 @@ const AboutSection = () => {
               </h2>
               
               <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
-                I'm an Applied AI Engineer with a strong background in Mechatronics, 
-                Robotics, and Control Systems. I build practical AI solutions for 
+                I'm a Mechatronics Engineer with a strong background in Mechatronics, 
+                Robotics, and Control Systems. I build practical solutions for 
                 real-world challenges in industry, energy systems, automation, and mobility.
               </p>
               
