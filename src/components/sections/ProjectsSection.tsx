@@ -48,7 +48,7 @@ const ProjectsSection = () => {
             </h2>
             
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              Real-world AI solutions with measurable impact across industries.
+              Real-world engineering solutions with measurable impact across industries.
             </p>
           </div>
           
