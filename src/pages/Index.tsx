@@ -19,7 +19,7 @@ const Index = () => {
         />
         <meta
           name="keywords"
-          content="AI Engineer, Machine Learning, Robotics, Python, PyTorch, Control Systems, MPC, MLOps"
+          content="AI Engineer, Machine Learning, Robotics, Control Systems, MPC, MLOps"
         />
         <meta property="og:title" content="Gianluca Rapaglia | Applied AI Engineer" />
         <meta
