@@ -14,7 +14,7 @@ const AboutSection = () => {
               </div>
               
               <h2 className="text-4xl md:text-5xl font-bold mb-6">
-                Engineering AI for
+                Engineering Intelligent Systems for
                 <span className="text-gradient"> Real Impact</span>
               </h2>
               
