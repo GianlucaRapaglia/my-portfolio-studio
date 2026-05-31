@@ -26,7 +26,7 @@ const SkillsSection = () => {
             </h2>
             
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              A comprehensive toolkit for building AI-powered systems from research to production.
+              A comprehensive toolkit for building intelligent systems from concept to deployment.
             </p>
           </div>
           
