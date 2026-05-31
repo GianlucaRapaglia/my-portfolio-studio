@@ -28,11 +28,11 @@ const HeroSection = () => {
           </h1>
           
           <p className="text-xl md:text-2xl text-primary font-mono mb-6 opacity-0 animate-fade-in" style={{ animationDelay: "0.3s" }}>
-            Applied AI Engineer
+            Mechatronics Engineer
           </p>
           
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto mb-10 opacity-0 animate-fade-in" style={{ animationDelay: "0.4s" }}>
-            Building practical AI solutions for real-world challenges in industry, 
+            Building practical solutions for real-world challenges in industry, 
             energy systems, automation, and mobility, focused on reliability, 
             performance, and measurable impact.
           </p>
